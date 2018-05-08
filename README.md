@@ -1,1 +1,1 @@
-KKO projekt - adaptive encoding/decoding
+KKO projekt - adaptive Huffman text encoding/decoding
